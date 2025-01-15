@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-	title: "M.P. Solutions",
+	title: "Niraj Jha",
 	description: "All medicine info at one place",
 };
 
